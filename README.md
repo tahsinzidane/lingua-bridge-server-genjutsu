@@ -2,7 +2,7 @@
 
 > Originally built as the translation backend for **[Genjutsu](https://github.com/iamovi/genjutsu)** — for text posts translation. Now open source under the **MIT License**. Use it freely in your own projects.
 
-A free, self-hostable **translation API** powered by `[google-translate-api-x](https://www.npmjs.com/package/google-translate-api-x)`. No API keys required — it reverse-engineers Google Translate's public endpoint.
+A free, self-hostable **translation API** powered by [`google-translate-api-x`](https://www.npmjs.com/package/google-translate-api-x). No API keys required — it reverse-engineers Google Translate's public endpoint.
 
 This monorepo contains **three independent deployment targets** for the same translation service. Pick the one that fits your infrastructure:
 
